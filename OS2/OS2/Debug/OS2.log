@@ -1,0 +1,9 @@
+﻿  OS2.cpp
+d:\os2\os2\os2.cpp(6): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  d:\os2\os2\os2.cpp(6): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(156): warning C4005: FD_CLR: изменение макроопределения
+  d:\os2\os2\os2.cpp(8): note: см. предыдущее определение "FD_CLR"
+d:\os2\os2\os2.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+d:\os2\os2\os2.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+  OS2.vcxproj -> D:\OS2\Debug\OS2.exe
+  OS2.vcxproj -> D:\OS2\Debug\OS2.pdb (Partial PDB)
